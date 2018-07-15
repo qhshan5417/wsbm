@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+table {
+	border: 2px #CCCCCC solid;
+	width: 360px;
+}
+
+td, th {
+	height: 30px;
+	border: #CCCCCC 1px solid;
+}
+tr:hover{
+	background:red;
+}
